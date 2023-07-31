@@ -1,4 +1,6 @@
 # weather
+To make this project I have used in software visual studio code and PHP,Laravel Framework ,XAMPP,Control  Panel,Composer.
+`
 In the project directory, you can run:
 
 npm start
